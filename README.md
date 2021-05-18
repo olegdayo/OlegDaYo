@@ -3,7 +3,8 @@ My name is Oleg and I am 18 y.o. Software Engeneer from Russia.
 Currently studying at Higher School Of Economics University, Faculcy of Computer Science, Bachelor’s Programme Software Engineering
 #### Contacts:
 [![Telegram](https://img.shields.io/badge/telegram-1DA1F2?logo=telegram&style=for-the-badge&logoColor=fff)](https://t.me/olegsama)
-[![VK](https://img.shields.io/badge/VK-1DA1F2?logo=vk&style=for-the-badge&logoColor=fff)](https://vk.com/zhekuson)
+[![VK](https://img.shields.io/badge/VK-4b74a2?logo=vk&style=for-the-badge&logoColor=fff)](https://vk.com/olegsama)
+[![VK](https://img.shields.io/badge/Instagram-fd5342?logo=instagram&style=for-the-badge&logoColor=fff)](https://www.instagram.com/off____luck/)
 
 Email: ol-sidorenkov@mail.ru
 
