@@ -20,8 +20,9 @@ Email: ol-sidorenkov@mail.ru
 ![Java](https://img.shields.io/badge/-Java-dddddd?style=for-the-badge&logo=java&logoColor=f00)
 ![Haskell](https://img.shields.io/badge/--eeeeee?style=for-the-badge&logo=haskell&logoColor=658)
 
-#### Additional knowledge:
-![Haskell](https://img.shields.io/badge/-RenPy-00aa00?style=for-the-badge)
+#### Additional knowledges:
+![RenPy](https://img.shields.io/badge/-RenPy-00aa00?style=for-the-badge)
+![Unity](https://img.shields.io/badge/-Unity-eeeeee?style=for-the-badge&logo=unity&logoColor=000)
 
 <!--
 **OFFLUCK/OFFLUCK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
