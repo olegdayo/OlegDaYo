@@ -4,7 +4,7 @@ Currently studying in HSE University
 ### Contacts:
 [![Telegram](https://img.shields.io/badge/telegram-1DA1F2?logo=telegram&style=for-the-badge&logoColor=fff)](https://t.me/olegsama)
 [![VK](https://img.shields.io/badge/VK-1DA1F2?logo=vk&style=for-the-badge&logoColor=fff)](https://vk.com/zhekuson)
-[![VK](https://img.shields.io/badge/mail-1DA1F2?logo=mail&style=for-the-badge&logoColor=fff)](ol-sidorenkov@mail.ru)
+Email: ol-sidorenkov@mail.ru
 
 <!--
 **OFFLUCK/OFFLUCK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
