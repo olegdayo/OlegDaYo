@@ -10,9 +10,12 @@ Email: ol-sidorenkov@mail.ru
 Programming languages:
 
 ![Python](https://img.shields.io/badge/-Python-ffd541?style=for-the-badge&logo=Python)
+![Matlab](https://img.shields.io/badge/Matlab-d4291c?style=for-the-badge)
 ![C#](https://img.shields.io/badge/-C%23-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=fff)
 ![C++](https://img.shields.io/badge/-C++-1c598f?style=for-the-badge&logo=visual-studio&logoColor=fff)
-![Matlab](https://img.shields.io/badge/Matlab-d4291c?style=for-the-badge&logoColor=fff)
+![SQL](https://img.shields.io/badge/SQL-d4291c?style=for-the-badge)
+![Java](https://img.shields.io/badge/-Java-dddddd?style=for-the-badge&logo=java&logoColor=f00)
+![Haskell](https://img.shields.io/badge/--eeeeee?style=for-the-badge&logo=haskell&logoColor=658)
 
 <!--
 **OFFLUCK/OFFLUCK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
