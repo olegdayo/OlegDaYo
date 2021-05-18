@@ -1,7 +1,7 @@
 ### Hey there!
 My name is Oleg and I am 18 y.o. Software Engeneer from Russia.
-Currently studying in HSE University
-### Contacts:
+Currently studying at Higher School Of Economics University, Faculcy of Computer Science, Bachelor’s Programme Software Engineering
+#### Contacts:
 [![Telegram](https://img.shields.io/badge/telegram-1DA1F2?logo=telegram&style=for-the-badge&logoColor=fff)](https://t.me/olegsama)
 [![VK](https://img.shields.io/badge/VK-1DA1F2?logo=vk&style=for-the-badge&logoColor=fff)](https://vk.com/zhekuson)
 Email: ol-sidorenkov@mail.ru
