@@ -7,8 +7,7 @@ Currently studying at Higher School Of Economics University, Faculcy of Computer
 
 Email: ol-sidorenkov@mail.ru
 
-Programming languages:
-
+#### Programming languages:
 ![Python](https://img.shields.io/badge/-Python-ffd541?style=for-the-badge&logo=Python)
 ![Matlab](https://img.shields.io/badge/Matlab-d4291c?style=for-the-badge)
 ![C#](https://img.shields.io/badge/-C%23-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=fff)
