@@ -1,6 +1,6 @@
-### Hey there!
-# My name is Oleg and I am 18 y.o. Software Engeneer from Russia.
-# Currently studying in HSE University
+## Hey there!
+### My name is Oleg and I am 18 y.o. Software Engeneer from Russia.
+### Currently studying in HSE University
 
 
 <!--
