@@ -8,6 +8,14 @@ Currently studying at Higher School Of Economics, Faculcy of Computer Science, B
 
 Email: ol-sidorenkov@mail.ru
 
+#### Education:
+- State Budgetary Educational Institution of Moscow "School №444"
+- National Research University "Higher School Of Economics", Faculcy of Computer Science, Bachelor’s Programme "Software Engineering"
+
+#### Additional education:
+- Yandex.Lyceum(2-year program)
+- HSE Summer School of Computer Science
+
 #### Languages:
 ### 🇷🇺 🇬🇧 🇯🇵 
 
@@ -23,6 +31,13 @@ Email: ol-sidorenkov@mail.ru
 #### Additional knowledges:
 ![RenPy](https://img.shields.io/badge/-RenPy-00aa00?style=for-the-badge)
 ![Unity](https://img.shields.io/badge/-Unity-eeeeee?style=for-the-badge&logo=unity&logoColor=000)
+
+#### Olimpiads:
+- Awardee of the 2nd degree of HSE team programming olympiad "The highest test"
+- Awardee of the Moscow Conference " Science for Life”
+- Winner of the All-Russian competition of design research works "Transport of the future" in the section "New vehicles"
+- Awardee of the 3rd degree of HSE Olympiad "The highest test. Electronics and computer engineering”
+
 
 <!--
 **OFFLUCK/OFFLUCK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
