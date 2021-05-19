@@ -26,7 +26,7 @@ Email: ol-sidorenkov@mail.ru
 ![C++](https://img.shields.io/badge/-C++-1c598f?style=for-the-badge&logo=visual-studio&logoColor=fff)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-add4ff?style=for-the-badge&logo=PostgreSQL&logoColor=336791)
 ![Java](https://img.shields.io/badge/-Java-eeeeee?style=for-the-badge&logo=java&logoColor=f00)
-![Haskell](https://img.shields.io/badge/--eeeeee?style=for-the-badge&logo=haskell&logoColor=658)
+![Haskell](https://img.shields.io/badge/-Haskell-eeeeee?style=for-the-badge&logo=haskell&logoColor=658)
 
 #### Additional knowledges:
 ![RenPy](https://img.shields.io/badge/-RenPy-00aa00?style=for-the-badge)
