@@ -34,7 +34,7 @@ Email: ol-sidorenkov@mail.ru
 
 #### Olimpiads:
 - Awardee of the 2nd degree of HSE team programming olympiad "The highest test"
-- Awardee of the Moscow Conference " Science for Life”
+- Awardee of the Moscow Conference " Science for life”
 - Winner of the All-Russian competition of design research works "Transport of the future" in the section "New vehicles"
 - Awardee of the 3rd degree of HSE Olympiad "The highest test. Electronics and computer engineering”
 
