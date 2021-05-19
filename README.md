@@ -39,7 +39,7 @@ Email: ol-sidorenkov@mail.ru
 - Awardee of the 3rd degree of HSE Olympiad "The highest test. Electronics and computer engineering”
 
 #### Hobbies:
-- Literature:
+- Literature
   - Horror
   - Manga
   - Classics
