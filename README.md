@@ -38,6 +38,16 @@ Email: ol-sidorenkov@mail.ru
 - Winner of the All-Russian competition of design research works "Transport of the future" in the section "New vehicles"
 - Awardee of the 3rd degree of HSE Olympiad "The highest test. Electronics and computer engineering”
 
+#### Hobbies:
+- Literature:
+  - Horror
+  - Manga
+  - Classics
+- Programming
+- Learning Japanese
+
+Yep, I am a weeboo...
+
 
 <!--
 **OFFLUCK/OFFLUCK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
