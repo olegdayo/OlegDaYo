@@ -46,7 +46,7 @@ Email: ol-sidorenkov@mail.ru
 - Programming
 - Learning Japanese
 
-Yep, I am a weeboo...
+Yeah, I am a weeboo
 
 
 <!--
