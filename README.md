@@ -4,7 +4,7 @@ Currently studying at Higher School Of Economics, Faculcy of Computer Science, B
 #### Contacts:
 [![Telegram](https://img.shields.io/badge/telegram-1DA1F2?logo=telegram&style=for-the-badge&logoColor=fff)](https://t.me/olegsama)
 [![VK](https://img.shields.io/badge/VK-4b74a2?logo=vk&style=for-the-badge&logoColor=fff)](https://vk.com/olegsama)
-[![VK](https://img.shields.io/badge/Instagram-fd5342?logo=instagram&style=for-the-badge&logoColor=fff)](https://www.instagram.com/off____luck/)
+[![VK](https://img.shields.io/badge/Instagram-fd5342?logo=instagram&style=for-the-badge&logoColor=fff)](https://www.instagram.com/off____luck)
 
 Personal email: ol-sidorenkov@mail.ru
 Corporative email: ovsidorenkov@edu.hse.ru
