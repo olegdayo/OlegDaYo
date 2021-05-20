@@ -6,7 +6,8 @@ Currently studying at Higher School Of Economics, Faculcy of Computer Science, B
 [![VK](https://img.shields.io/badge/VK-4b74a2?logo=vk&style=for-the-badge&logoColor=fff)](https://vk.com/olegsama)
 [![VK](https://img.shields.io/badge/Instagram-fd5342?logo=instagram&style=for-the-badge&logoColor=fff)](https://www.instagram.com/off____luck/)
 
-Email: ol-sidorenkov@mail.ru
+Personal email: ol-sidorenkov@mail.ru
+Corporative email: ovsidorenkov@edu.hse.ru
 
 #### Education:
 - State Budgetary Educational Institution of Moscow "School №444"
@@ -32,7 +33,7 @@ Email: ol-sidorenkov@mail.ru
 ![RenPy](https://img.shields.io/badge/-RenPy-00aa00?style=for-the-badge)
 ![Unity](https://img.shields.io/badge/-Unity-eeeeee?style=for-the-badge&logo=unity&logoColor=000)
 
-#### Olimpiads:
+#### Olimpiads and conferences:
 - Awardee of the 2nd degree of HSE team programming olympiad "The highest test"
 - Awardee of the Moscow Conference " Science for life”
 - Winner of the All-Russian competition of design research works "Transport of the future" in the section "New vehicles"
