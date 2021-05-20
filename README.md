@@ -7,6 +7,7 @@ Currently studying at Higher School Of Economics, Faculcy of Computer Science, B
 [![VK](https://img.shields.io/badge/Instagram-fd5342?logo=instagram&style=for-the-badge&logoColor=fff)](https://www.instagram.com/off____luck)
 
 Personal email: ol-sidorenkov@mail.ru
+
 Corporative email: ovsidorenkov@edu.hse.ru
 
 #### Education:
