@@ -19,7 +19,7 @@ Corporative email: ovsidorenkov@edu.hse.ru
 - HSE Summer School of Computer Science
 
 #### Languages:
-### 🇷🇺 🇬🇧 🇯🇵 
+### 🇷🇺(Native) 🇬🇧(C1) 🇯🇵 (Beginner)
 
 #### Programming languages:
 ![Python](https://img.shields.io/badge/-Python-ffd541?style=for-the-badge&logo=Python)
