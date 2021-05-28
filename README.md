@@ -31,7 +31,8 @@ Corporative email: ovsidorenkov@edu.hse.ru
 ![Haskell](https://img.shields.io/badge/-Haskell-eeeeee?style=for-the-badge&logo=haskell&logoColor=658)
 
 #### Additional knowledges:
-![RenPy](https://img.shields.io/badge/-RenPy-00aa00?style=for-the-badge)
+![PyGame](https://img.shields.io/badge/-PyGame-00aa00?style=for-the-badge)
+![RenPy](https://img.shields.io/badge/-RenPy-ffad55?style=for-the-badge)
 ![Unity](https://img.shields.io/badge/-Unity-eeeeee?style=for-the-badge&logo=unity&logoColor=000)
 
 #### Olimpiads and conferences:
