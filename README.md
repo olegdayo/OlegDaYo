@@ -34,6 +34,7 @@ Corporative email: ovsidorenkov@edu.hse.ru
 ![PyGame](https://img.shields.io/badge/-PyGame-00aa00?style=for-the-badge)
 ![RenPy](https://img.shields.io/badge/-RenPy-ffad55?style=for-the-badge)
 ![Unity](https://img.shields.io/badge/-Unity-eeeeee?style=for-the-badge&logo=unity&logoColor=000)
+![Latex](https://img.shields.io/badge/-Latex-4dffff?style=for-the-badge&logo=latex&logoColor=044)
 
 #### Olimpiads and conferences:
 - Awardee of the 2nd degree of HSE team programming olympiad "The highest test"
