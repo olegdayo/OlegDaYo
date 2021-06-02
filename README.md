@@ -31,12 +31,12 @@ Corporative email: ovsidorenkov@edu.hse.ru
 ![Haskell](https://img.shields.io/badge/-Haskell-eeeeee?style=for-the-badge&logo=haskell&logoColor=658)
 
 #### Additional knowledges:
-![GitHub](https://img.shields.io/badge/-GitHub-25292e?style=for-the-badge&logo=github&logoColor=fff)
-![GitLab](https://img.shields.io/badge/-GitLab-4a4e9e?style=for-the-badge&logo=gitlab&logoColor=fff)
 ![PyGame](https://img.shields.io/badge/-PyGame-00aa00?style=for-the-badge)
 ![RenPy](https://img.shields.io/badge/-RenPy-ffad55?style=for-the-badge)
-![Latex](https://img.shields.io/badge/-Latex-4dffff?style=for-the-badge&logo=latex&logoColor=044)
 ![Unity](https://img.shields.io/badge/-Unity-eeeeee?style=for-the-badge&logo=unity&logoColor=000)
+![Latex](https://img.shields.io/badge/-Latex-4dffff?style=for-the-badge&logo=latex&logoColor=044)
+![GitHub](https://img.shields.io/badge/-GitHub-25292e?style=for-the-badge&logo=github&logoColor=fff)
+![GitLab](https://img.shields.io/badge/-GitLab-4a4e9e?style=for-the-badge&logo=gitlab&logoColor=fff)
 
 #### Olimpiads and conferences:
 - Awardee of the 2nd degree of HSE team programming olympiad "The highest test"
