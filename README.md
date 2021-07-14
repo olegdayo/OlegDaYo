@@ -39,8 +39,8 @@ Corporative email: ovsidorenkov@edu.hse.ru
 [![GitLab](https://img.shields.io/badge/-GitLab-4a4e9e?style=for-the-badge&logo=gitlab&logoColor=fff)](https://gitlab.com/OFFLUCK)
 
 #### Olympiads and conferences:
-- Awardee of the 2nd degree of HSE team programming olympiad "The highest test"
-- Awardee of the Moscow Conference " Science for life”
+- Awardee of the 2nd degree HSE team programming olympiad "The highest test"
+- Awardee of the Moscow Conference "Science for life”
 - Winner of the All-Russian competition of design research works "Transport of the future" in the section "New vehicles"
 - Awardee of the 3rd degree of HSE Olympiad "The highest test. Electronics and computer engineering”
 
