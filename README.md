@@ -36,6 +36,7 @@ Corporative email: ovsidorenkov@edu.hse.ru
 ![RenPy](https://img.shields.io/badge/-RenPy-ffad55?style=for-the-badge)
 ![Unity](https://img.shields.io/badge/-Unity-eeeeee?style=for-the-badge&logo=unity&logoColor=000)
 ![Latex](https://img.shields.io/badge/-Latex-4dffff?style=for-the-badge&logo=latex&logoColor=044)
+![gRPC](https://img.shields.io/badge/-gRPC-2da6af?style=for-the-badge)
 [![GitHub](https://img.shields.io/badge/-GitHub-25292e?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/OFFLUCK)
 [![GitLab](https://img.shields.io/badge/-GitLab-4a4e9e?style=for-the-badge&logo=gitlab&logoColor=fff)](https://gitlab.com/OFFLUCK)
 
