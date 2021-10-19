@@ -1,27 +1,27 @@
-### Hey there!
+### Hey there!👋
 My name is Oleg, I am 18 y.o. Software Engineer from Moscow.
 Currently studying at Higher School of Economics, Faculcy of Computer Science, Bachelor’s Programme Software Engineering.
-#### Contacts:
+#### Contacts📞:
 [![Telegram](https://img.shields.io/badge/telegram-1DA1F2?logo=telegram&style=for-the-badge&logoColor=fff)](https://t.me/olegsama)
 [![VK](https://img.shields.io/badge/VK-4b74a2?logo=vk&style=for-the-badge&logoColor=fff)](https://vk.com/olegsama)
 [![Instagram](https://img.shields.io/badge/Instagram-fd5342?logo=instagram&style=for-the-badge&logoColor=fff)](https://www.instagram.com/off____luck)
 
-Personal email: ol-sidorenkov@mail.ru
+Personal email💌: ol-sidorenkov@mail.ru
 
-Corporative email: ovsidorenkov@edu.hse.ru
+Corporative email📩: ovsidorenkov@edu.hse.ru
 
-#### Education:
+#### Education👨‍🎓:
 - State Budgetary Educational Institution of Moscow "School №444"
 - National Research University "Higher School of Economics", Faculcy of Computer Science, Bachelor’s Programme "Software Engineering"
 
-#### Additional education:
+#### Additional education👨‍🔧:
 - Yandex.Lyceum(2-year program)
 - HSE Summer School of Computer Science
 
-#### Languages:
+#### Languages👅:
 ##### 🇷🇺(Native) 🇬🇧(C1) 🇯🇵 (Beginner)
 
-#### Programming languages:
+#### Programming languages👨‍💻:
 ![Python](https://img.shields.io/badge/-Python-ffd541?style=for-the-badge&logo=Python)
 ![Matlab](https://img.shields.io/badge/Matlab-d4291c?style=for-the-badge)
 ![C#](https://img.shields.io/badge/-C%23-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=fff)
@@ -31,7 +31,10 @@ Corporative email: ovsidorenkov@edu.hse.ru
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-add4ff?style=for-the-badge&logo=PostgreSQL&logoColor=336791)
 ![Haskell](https://img.shields.io/badge/-Haskell-eeeeee?style=for-the-badge&logo=haskell&logoColor=658)
 
-#### Additional knowledges:
+<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OFFLUCK&langs_count=20&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api?username=OFFLUCK"/></p>
+
+#### Additional knowledges👨‍🏭:
 ![PyGame](https://img.shields.io/badge/-PyGame-00aa00?style=for-the-badge)
 ![RenPy](https://img.shields.io/badge/-RenPy-ffad55?style=for-the-badge)
 ![Unity](https://img.shields.io/badge/-Unity-eeeeee?style=for-the-badge&logo=unity&logoColor=000)
@@ -40,13 +43,17 @@ Corporative email: ovsidorenkov@edu.hse.ru
 [![GitHub](https://img.shields.io/badge/-GitHub-25292e?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/OFFLUCK)
 [![GitLab](https://img.shields.io/badge/-GitLab-4a4e9e?style=for-the-badge&logo=gitlab&logoColor=fff)](https://gitlab.com/OFFLUCK)
 
-#### Olympiads and conferences:
+#### Olympiads and conferences👨‍🏫:
 - Awardee of the 2nd degree HSE team programming olympiad "The highest test"
 - Awardee of the Moscow Conference "Science for life”
 - Winner of the All-Russian competition of design research works "Transport of the future" in the section "New vehicles"
 - Awardee of the 3rd degree of HSE Olympiad "The highest test. Electronics and computer engineering”
 
-#### Hobbies:
+#### Carier📈:
+- 2021-now: HSE teaching assistant for algebra and calculus mathematical practice in Matlab
+- 2021-now: School №444 additional education for IT and math classes teacher
+
+#### Hobbies👾:
 - Literature
   - Horror
   - Manga
@@ -54,7 +61,7 @@ Corporative email: ovsidorenkov@edu.hse.ru
 - Programming
 - Learning Japanese
 
-Yeah, I am a weeboo
+Yeah, I am a weeboo🎎
 
 ⠄⣾⣿⠿⠿⠶⠿⢿⣿⣿⣿⣿⣦⣤⣄⢀⡅⢠⣾⣛⡉⠄⠄⠄⠸⢀⣿⠄<br/>
 ⢀⡋⣡⣴⣶⣶⡀⠄⠄⠙⢿⣿⣿⣿⣿⣿⣴⣿⣿⣿⢃⣤⣄⣀⣥⣿⣿⠄<br/>
