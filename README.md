@@ -54,12 +54,12 @@ Corporative email📩: ovsidorenkov@edu.hse.ru
 - 2021-now: School №444 additional education for IT and math classes teacher
 
 #### Hobbies👾:
-- Literature
-  - Horror
-  - Manga
-  - Classics
-- Programming
-- Learning Japanese
+- Literature📚
+  - Horror👻
+  - Manga㊗️
+  - Classics🎻
+- Programming💻
+- Learning Japanese🎌
 
 Yeah, I am a weeboo🎎
 
