@@ -52,7 +52,7 @@ Corporative email📩: ovsidorenkov@edu.hse.ru
 
 #### Carier📈:
 - 2021-now: HSE teaching assistant for algebra and calculus mathematical practice in Matlab
-- 2021-now: School №444 additional education for IT and math classes teacher
+- 2021-now: School №444 additional education in programming for IT and math classes teacher
 
 #### Hobbies👾:
 - Literature📚
