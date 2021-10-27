@@ -17,6 +17,7 @@ Corporative email📩: ovsidorenkov@edu.hse.ru
 #### Additional education👨‍🔧:
 - Yandex.Lyceum(2-year program)
 - HSE Summer School of Computer Science
+- A couple of courses from Coursera and Stepik
 
 #### Languages👅:
 ##### 🇷🇺(Native) 🇬🇧(C1) 🇯🇵 (Beginner)
