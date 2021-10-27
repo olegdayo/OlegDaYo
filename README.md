@@ -14,7 +14,7 @@ Corporative email📩: ovsidorenkov@edu.hse.ru
 - State Budgetary Educational Institution of Moscow "School №444"
 - National Research University "Higher School of Economics", Faculcy of Computer Science, Bachelor’s Programme "Software Engineering"
 
-#### Additional education👨‍🔧:
+#### Extra education👨‍🔧:
 - Yandex.Lyceum(2-year program)
 - HSE Summer School of Computer Science
 - A couple of courses from Coursera and Stepik
