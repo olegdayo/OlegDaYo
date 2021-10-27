@@ -15,8 +15,8 @@ Corporative email📩: ovsidorenkov@edu.hse.ru
 - National Research University "Higher School of Economics", Faculcy of Computer Science, Bachelor’s Programme "Software Engineering"
 
 #### Extra education👨‍🔧:
-- Yandex.Lyceum(2-year program)
-- HSE Summer School of Computer Science
+- Yandex.Lyceum(2-year program of python learning)
+- HSE Summer School of Computer Science: olimpiad programming camp
 - A couple of courses from Coursera and Stepik
 
 #### Languages👅:
