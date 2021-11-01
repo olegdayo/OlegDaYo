@@ -11,13 +11,13 @@ Personal email💌: ol-sidorenkov@mail.ru
 Corporative email📩: ovsidorenkov@edu.hse.ru
 
 #### Education👨‍🎓:
-- State Budgetary Educational Institution of Moscow "School №444"
-- National Research University "Higher School of Economics", Faculcy of Computer Science, Bachelor’s Programme "Software Engineering"
+- [State Budgetary Educational Institution of Moscow "School №444"](https://schv444.mskobr.ru)
+- [National Research University "Higher School of Economics", Faculcy of Computer Science, Bachelor’s Programme "Software Engineering"](https://www.hse.ru/en/ba/se)
 
 #### Extra education👨‍🔧:
-- Yandex.Lyceum(2-year program of python learning)
-- HSE Summer School of Computer Science: olimpiad programming camp
-- A couple of courses from Coursera and Stepik
+- [Yandex.Lyceum(2-year program of python learning)](https://yandexlyceum.ru)
+- [HSE Summer School of Computer Science: olimpiad programming camp](https://cs.hse.ru/csss)
+- A couple of courses from [Coursera](https://www.coursera.org) and [Stepik](https://stepik.org/users/153748980/certificates)
 
 #### Languages👅:
 ##### 🇷🇺(Native) 🇬🇧(C1) 🇯🇵 (Beginner)
