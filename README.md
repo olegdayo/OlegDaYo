@@ -1,6 +1,7 @@
 ### Hey there!👋
 My name is Oleg, I am 18 y.o. Software Engineer from Moscow.
 Currently studying at Higher School of Economics, Faculcy of Computer Science, Bachelor’s Programme Software Engineering.
+
 #### Contacts📞:
 [![Telegram](https://img.shields.io/badge/telegram-1DA1F2?logo=telegram&style=for-the-badge&logoColor=fff)](https://t.me/olegsama)
 [![VK](https://img.shields.io/badge/VK-4b74a2?logo=vk&style=for-the-badge&logoColor=fff)](https://vk.com/olegsama)
