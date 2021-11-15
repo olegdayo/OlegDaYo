@@ -26,9 +26,9 @@ Corporative email📩: ovsidorenkov@edu.hse.ru
 #### Programming languages👨‍💻:
 ![Python](https://img.shields.io/badge/-Python-ffd541?style=for-the-badge&logo=Python)
 ![Matlab](https://img.shields.io/badge/Matlab-d4291c?style=for-the-badge)
-![C](https://img.shields.io/badge/C-7f8a98?style=for-the-badge&logo=c&logoColor=fff)
-![C++](https://img.shields.io/badge/C++-1c598f?style=for-the-badge&logo=cplusplus&logoColor=fff)
 ![C#](https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=csharp&logoColor=fff)
+![C++](https://img.shields.io/badge/C++-1c598f?style=for-the-badge&logo=cplusplus&logoColor=fff)
+![C](https://img.shields.io/badge/C-7f8a98?style=for-the-badge&logo=c&logoColor=fff)
 ![Golang](https://img.shields.io/badge/-Golang-f7d3a4?style=for-the-badge&logo=go&logoColor=6cc)
 ![Java](https://img.shields.io/badge/-Java-eeeeee?style=for-the-badge&logo=java&logoColor=f00)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-add4ff?style=for-the-badge&logo=PostgreSQL&logoColor=336791)
@@ -38,11 +38,11 @@ Corporative email📩: ovsidorenkov@edu.hse.ru
 <img src="https://github-readme-stats.vercel.app/api?username=OFFLUCK"/></p>
 
 #### Additional knowledges👨‍🏭:
+![Jupyter](https://img.shields.io/badge/-Jupyter-616362?style=for-the-badge&logo=jupyter&logoColor=f63)
 ![PyGame](https://img.shields.io/badge/-PyGame-00aa00?style=for-the-badge)
 ![RenPy](https://img.shields.io/badge/-RenPy-ffad55?style=for-the-badge)
-![Unity](https://img.shields.io/badge/-Unity-eeeeee?style=for-the-badge&logo=unity&logoColor=000)
-![Jupyter](https://img.shields.io/badge/-Jupyter-616362?style=for-the-badge&logo=jupyter&logoColor=f63)
 ![Latex](https://img.shields.io/badge/-Latex-4dffff?style=for-the-badge&logo=latex&logoColor=044)
+![Unity](https://img.shields.io/badge/-Unity-eeeeee?style=for-the-badge&logo=unity&logoColor=000)
 ![gRPC](https://img.shields.io/badge/-gRPC-2da6af?style=for-the-badge)
 [![GitHub](https://img.shields.io/badge/-GitHub-25292e?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/OFFLUCK)
 [![GitLab](https://img.shields.io/badge/-GitLab-4a4e9e?style=for-the-badge&logo=gitlab&logoColor=fff)](https://gitlab.com/OFFLUCK)
