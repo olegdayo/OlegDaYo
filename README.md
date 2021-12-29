@@ -30,6 +30,7 @@ Corporative email📩: ovsidorenkov@edu.hse.ru
 ![C++](https://img.shields.io/badge/C++-1c598f?style=for-the-badge&logo=cplusplus&logoColor=fff)
 ![C](https://img.shields.io/badge/C-7f8a98?style=for-the-badge&logo=c&logoColor=fff)
 ![Golang](https://img.shields.io/badge/-Golang-f7d3a4?style=for-the-badge&logo=go&logoColor=6cc)
+![Rust](https://img.shields.io/badge/-Rust-868782?style=for-the-badge&logo=rust&logoColor=633)
 ![Java](https://img.shields.io/badge/-Java-eeeeee?style=for-the-badge&logo=java&logoColor=f00)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-add4ff?style=for-the-badge&logo=PostgreSQL&logoColor=336791)
 ![Haskell](https://img.shields.io/badge/-Haskell-eeeeee?style=for-the-badge&logo=haskell&logoColor=658)
