@@ -1,5 +1,5 @@
 ### Hey there!👋
-My name is Oleg, I am 18 y.o. Software Engineer from Moscow.
+My name is Oleg, I am 19 y.o. Software Engineer from Moscow.
 Currently studying at Higher School of Economics, Faculcy of Computer Science, Bachelor’s Programme Software Engineering.
 
 #### Contacts📞:
