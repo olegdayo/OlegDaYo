@@ -62,7 +62,7 @@ Corporative email📩: ovsidorenkov@edu.hse.ru
 #### Hobbies👾:
 - Literature📚
   - Horror👻
-  - Manga㊗️
+  - Manga㊙️
   - Classics🎻
 - Programming💻
 - Playing bass🎸
