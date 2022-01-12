@@ -65,6 +65,7 @@ Corporative email📩: ovsidorenkov@edu.hse.ru
   - Manga㊗️
   - Classics🎻
 - Programming💻
+- Playing bass🎸
 - Learning Japanese🎌
 
 Yeah, I am a weeboo🎎
