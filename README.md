@@ -11,8 +11,6 @@ Personal email💌: ol-sidorenkov@mail.ru
 
 Corporative email📩: ovsidorenkov@edu.hse.ru
 
-[CV](https://github.com/OFFLUCK/OFFLUCK/blob/main/CV.pdf)
-
 #### Education👨‍🎓:
 - [State Budgetary Educational Institution of Moscow "School №444"](https://schv444.mskobr.ru)
 - [National Research University "Higher School of Economics", Faculcy of Computer Science, Bachelor’s Programme "Software Engineering"](https://www.hse.ru/en/ba/se)
