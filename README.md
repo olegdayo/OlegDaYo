@@ -11,7 +11,7 @@ Personal email💌: ol-sidorenkov@mail.ru
 
 Corporative email📩: ovsidorenkov@edu.hse.ru
 
-[CV]()
+[CV](https://github.com/OFFLUCK/OFFLUCK/blob/main/CV.pdf)
 
 #### Education👨‍🎓:
 - [State Budgetary Educational Institution of Moscow "School №444"](https://schv444.mskobr.ru)
