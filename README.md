@@ -33,6 +33,7 @@ Corporative email📩: ovsidorenkov@edu.hse.ru
 ![Rust](https://img.shields.io/badge/-Rust-868782?style=for-the-badge&logo=rust&logoColor=633)
 ![Java](https://img.shields.io/badge/-Java-eeeeee?style=for-the-badge&logo=java&logoColor=f00)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-add4ff?style=for-the-badge&logo=PostgreSQL&logoColor=336791)
+![Kotlin](https://img.shields.io/badge/-Kotlin-ff6b00?style=for-the-badge&logo=kotlin&logoColor=66f)
 ![Haskell](https://img.shields.io/badge/-Haskell-eeeeee?style=for-the-badge&logo=haskell&logoColor=658)
 
 <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OFFLUCK&langs_count=20&layout=compact"/>
