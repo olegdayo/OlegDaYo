@@ -11,6 +11,10 @@ Personal email💌: ol-sidorenkov@mail.ru
 
 Corporative email📩: ovsidorenkov@edu.hse.ru
 
+#### Carier📈:
+- 2021-now: [HSE teaching assistant for algebra and calculus mathematical practice in Matlab](https://cs.hse.ru/initiative/2021/2022-1)
+- 2021-now: School №444 additional education in programming for IT and math classes teacher
+
 #### Education👨‍🎓:
 - [State Budgetary Educational Institution of Moscow "School №444"](https://schv444.mskobr.ru)
 - [National Research University "Higher School of Economics", Faculcy of Computer Science, Bachelor’s Programme "Software Engineering"](https://www.hse.ru/en/ba/se)
@@ -52,10 +56,6 @@ Corporative email📩: ovsidorenkov@edu.hse.ru
 - Awardee of the Moscow Conference "Science for life”
 - Winner of the All-Russian competition of design research works "Transport of the future" in the section "New vehicles"
 - Awardee of the 3rd degree of HSE Olympiad "The highest test. Electronics and computer engineering”
-
-#### Carier📈:
-- 2021-now: [HSE teaching assistant for algebra and calculus mathematical practice in Matlab](https://cs.hse.ru/initiative/2021/2022-1)
-- 2021-now: School №444 additional education in programming for IT and math classes teacher
 
 #### Hobbies👾:
 - Literature📚
