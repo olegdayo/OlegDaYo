@@ -37,8 +37,11 @@ Corporative email📩: ovsidorenkov@edu.hse.ru
 ![Kotlin](https://img.shields.io/badge/-Kotlin-ff6b00?style=for-the-badge&logo=kotlin&logoColor=66f)
 ![Rust](https://img.shields.io/badge/-Rust-868782?style=for-the-badge&logo=rust&logoColor=633)
 
-<p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OFFLUCK&langs_count=10&layout=compact"/>
-<img src="https://github-readme-stats.vercel.app/api?username=OFFLUCK"/></p>
+<p align="left">
+<img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OFFLUCK&langs_count=10&layout=compact"/>
+<img height="200" src="https://github-readme-stats.vercel.app/api?username=OFFLUCK"/>
+<img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=OFFLUCK"/>
+</p>
 
 #### Additional knowledges👨‍🏭:
 ![Jupyter](https://img.shields.io/badge/-Jupyter-616362?style=for-the-badge&logo=jupyter&logoColor=f63)
@@ -50,6 +53,8 @@ Corporative email📩: ovsidorenkov@edu.hse.ru
 ![Git](https://img.shields.io/badge/-Git-e25a39?style=for-the-badge&logo=git&logoColor=fff)
 [![GitHub](https://img.shields.io/badge/-GitHub-25292e?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/OFFLUCK)
 [![GitLab](https://img.shields.io/badge/-GitLab-4a4e9e?style=for-the-badge&logo=gitlab&logoColor=fff)](https://gitlab.com/OFFLUCK)
+
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="OFFLUCK's activity" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=OFFLUCK&theme=github-light&custom_title=OFFLUCK%27s%20activity" /></a>
 
 #### Olympiads and conferences👨‍🏫:
 - Awardee of the 2nd degree HSE team programming olympiad "The highest test"
