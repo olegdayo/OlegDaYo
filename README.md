@@ -37,7 +37,7 @@ Corporative email📩: ovsidorenkov@edu.hse.ru
 ![Kotlin](https://img.shields.io/badge/-Kotlin-ff6b00?style=for-the-badge&logo=kotlin&logoColor=66f)
 ![Rust](https://img.shields.io/badge/-Rust-868782?style=for-the-badge&logo=rust&logoColor=633)
 
-<p align="left">
+<p align="center">
 <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OFFLUCK&langs_count=10&layout=compact"/>
 <img height="200" src="https://github-readme-stats.vercel.app/api?username=OFFLUCK"/>
 <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=OFFLUCK"/>
