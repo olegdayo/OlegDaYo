@@ -66,7 +66,7 @@ Corporative email📩: ovsidorenkov@edu.hse.ru
 - Literature📚
   - Horror👻
   - Manga㊙️
-  - Classics🎻
+  - Classic🏛
 - Programming💻
 - Playing bass🎸
 - Learning Japanese🎌
