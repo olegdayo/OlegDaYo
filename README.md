@@ -13,7 +13,8 @@ Corporative email📩: ovsidorenkov@edu.hse.ru
 
 #### Carier📈:
 - 2021-2022: [HSE teaching assistant for algebra and calculus mathematical practice in Matlab](https://cs.hse.ru/initiative/2021/2022-2)
-- 2021-now: School №444 Algorithms and Data Structures in Python teacher
+- 2021-2022: School №444 Algorithms and Data Structures in Python teacher
+- 2022-now: Yandex intern. NOCDEV. Puncher team
 
 #### Education👨‍🎓:
 - [State Budgetary Educational Institution of Moscow "School №444"](https://schv444.mskobr.ru)
@@ -30,12 +31,9 @@ Corporative email📩: ovsidorenkov@edu.hse.ru
 #### Programming languages👨‍💻:
 ![Golang](https://img.shields.io/badge/-Golang-f7d3a4?style=for-the-badge&logo=go&logoColor=6cc)
 ![Python](https://img.shields.io/badge/-Python-ffd541?style=for-the-badge&logo=Python)
-![Matlab](https://img.shields.io/badge/Matlab-d4291c?style=for-the-badge)
-![C++](https://img.shields.io/badge/C++-1c598f?style=for-the-badge&logo=cplusplus&logoColor=fff)
-![C#](https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=csharp&logoColor=fff)
-![Java](https://img.shields.io/badge/-Java-eeeeee?style=for-the-badge&logo=java&logoColor=f00)
-![Kotlin](https://img.shields.io/badge/-Kotlin-ff6b00?style=for-the-badge&logo=kotlin&logoColor=66f)
 ![Rust](https://img.shields.io/badge/-Rust-868782?style=for-the-badge&logo=rust&logoColor=633)
+![C/C++](https://img.shields.io/badge/C++-1c598f?style=for-the-badge&logo=cplusplus&logoColor=fff)
+![Matlab](https://img.shields.io/badge/Matlab-d4291c?style=for-the-badge)
 
 <p align="center">
 <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OFFLUCK&langs_count=10&layout=compact"/>
@@ -45,11 +43,9 @@ Corporative email📩: ovsidorenkov@edu.hse.ru
 
 #### Additional knowledges👨‍🏭:
 ![Jupyter](https://img.shields.io/badge/-Jupyter-616362?style=for-the-badge&logo=jupyter&logoColor=f63)
-![PyGame](https://img.shields.io/badge/-PyGame-00aa00?style=for-the-badge)
 ![RenPy](https://img.shields.io/badge/-RenPy-ffad55?style=for-the-badge)
 ![Latex](https://img.shields.io/badge/-Latex-4dffff?style=for-the-badge&logo=latex&logoColor=044)
 ![Unity](https://img.shields.io/badge/-Unity-eeeeee?style=for-the-badge&logo=unity&logoColor=000)
-![gRPC](https://img.shields.io/badge/-gRPC-2da6af?style=for-the-badge)
 ![Git](https://img.shields.io/badge/-Git-e25a39?style=for-the-badge&logo=git&logoColor=fff)
 [![GitHub](https://img.shields.io/badge/-GitHub-25292e?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/OFFLUCK)
 [![GitLab](https://img.shields.io/badge/-GitLab-4a4e9e?style=for-the-badge&logo=gitlab&logoColor=fff)](https://gitlab.com/OFFLUCK)
