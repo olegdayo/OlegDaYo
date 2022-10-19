@@ -1,15 +1,13 @@
 ### Hey there!👋
-My name is Oleg, I am 19 y.o. Software Engineer from Moscow.
-Currently studying at Higher School of Economics, Faculcy of Computer Science, Bachelor’s Programme Software Engineering.
+My name is Oleg, I am 19 y.o. software engineer from Moscow.
+Currently studying at Higher School of Economics, "Faculcy of Computer Science", Bachelor’s Programme "Software Engineering".
 
 #### Contacts📞:
 [![Telegram](https://img.shields.io/badge/telegram-1DA1F2?logo=telegram&style=for-the-badge&logoColor=fff)](https://t.me/olegsama)
 [![VK](https://img.shields.io/badge/VK-4b74a2?logo=vk&style=for-the-badge&logoColor=fff)](https://vk.com/olegsama)
 [![Instagram](https://img.shields.io/badge/Instagram-fd5342?logo=instagram&style=for-the-badge&logoColor=fff)](https://www.instagram.com/off____luck)
 
-Personal email💌: ol-sidorenkov@mail.ru
-
-Corporative email📩: ovsidorenkov@edu.hse.ru
+Email💌: ol-sidorenkov@mail.ru
 
 #### Carier📈:
 - 2021.09-2022.03: [HSE teaching assistant for algebra and calculus mathematical practice in Matlab](https://cs.hse.ru/initiative/2021/2022-2)
@@ -33,7 +31,7 @@ Corporative email📩: ovsidorenkov@edu.hse.ru
 ![Golang](https://img.shields.io/badge/-Golang-f7d3a4?style=for-the-badge&logo=go&logoColor=6cc)
 ![Python](https://img.shields.io/badge/-Python-ffd541?style=for-the-badge&logo=Python)
 ![Rust](https://img.shields.io/badge/-Rust-868782?style=for-the-badge&logo=rust&logoColor=633)
-![C/C++](https://img.shields.io/badge/C++-1c598f?style=for-the-badge&logo=cplusplus&logoColor=fff)
+![C/C++](https://img.shields.io/badge/C/C++-1c598f?style=for-the-badge&logo=cplusplus&logoColor=fff)
 ![Matlab](https://img.shields.io/badge/Matlab-d4291c?style=for-the-badge)
 
 <p align="center">
@@ -43,6 +41,7 @@ Corporative email📩: ovsidorenkov@edu.hse.ru
 </p>
 
 #### Additional knowledges👨‍🏭:
+![CI/CD](https://img.shields.io/badge/-CI/CD-b2ff44?style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-616362?style=for-the-badge&logo=jupyter&logoColor=f63)
 ![RenPy](https://img.shields.io/badge/-RenPy-ffad55?style=for-the-badge)
 ![Latex](https://img.shields.io/badge/-Latex-4dffff?style=for-the-badge&logo=latex&logoColor=044)
