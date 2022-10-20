@@ -25,7 +25,9 @@ Email💌: ol-sidorenkov@mail.ru
 - A couple of courses from [Coursera](https://www.coursera.org) and [Stepik](https://stepik.org/users/153748980/certificates)
 
 #### Languages👅:
-##### 🇷🇺(Native) 🇬🇧(C1) 🇯🇵 (Beginner)
+- 🇷🇺(Native)
+- 🇬🇧(C1)
+- 🇯🇵(Beginner)
 
 #### Programming languages👨‍💻:
 ![Golang](https://img.shields.io/badge/-Golang-f7d3a4?style=for-the-badge&logo=go&logoColor=6cc)
