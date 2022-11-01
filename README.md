@@ -12,7 +12,8 @@ Email💌: ol-sidorenkov@mail.ru
 #### Carier📈:
 - 2021.09-2022.03: [HSE teaching assistant for algebra and calculus mathematical practice in Matlab](https://cs.hse.ru/initiative/2021/2022-2)
 - 2021.09-2022.05: School №444 Algorithms and Data Structures in Python teacher
-- 2022.07-2022.10: Yandex intern. NOCDEV. Puncher team
+- 2022.07-2022.10: Yandex intern Go-developer. NOCDEV. Puncher team
+- 2022.10-now: Yandex junior SRE (Go-developer). Yandex Market
 
 #### Education👨‍🎓:
 - [State Budgetary Educational Institution of Moscow "School №444"](https://schv444.mskobr.ru)
