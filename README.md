@@ -19,7 +19,7 @@ Currently studying at Higher School of Economics, "Faculcy of Computer Science",
 - [State Budgetary Educational Institution of Moscow "School №444"](https://schv444.mskobr.ru)
 - [National Research University "Higher School of Economics", Faculcy of Computer Science, Bachelor’s Programme "Software Engineering"](https://www.hse.ru/en/ba/se)
 
-#### Extra education👨‍🔧:
+#### Additional education👨‍🔧:
 - [Yandex.Lyceum(2-year program of python learning)](https://yandexlyceum.ru)
 - [HSE Summer School of Computer Science: olimpiad programming camp](https://cs.hse.ru/csss)
 - A couple of courses from [Coursera](https://www.coursera.org) and [Stepik](https://stepik.org/users/153748980/certificates)
