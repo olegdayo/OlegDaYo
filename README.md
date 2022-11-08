@@ -61,14 +61,14 @@ Currently studying at Higher School of Economics, "Faculcy of Computer Science",
 - Awardee of the 3rd degree of HSE Olympiad "The highest test. Electronics and computer engineering”
 
 #### Hobbies👾:
+- Tech💻
+  - Go🦫
+  - Rust🦀
+  - Python🐍
 - Literature📚
   - Horror👻
   - Manga㊙️
   - Classic🏛
-- Programming💻
-  - Go🦫
-  - Rust🦀
-  - Python🐍
 - Playing bass🎸
 - Learning Japanese🎌
 
