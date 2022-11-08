@@ -66,6 +66,9 @@ Currently studying at Higher School of Economics, "Faculcy of Computer Science",
   - Manga㊙️
   - Classic🏛
 - Programming💻
+  - Go🦫
+  - Rust🦀
+  - Python🐍
 - Playing bass🎸
 - Learning Japanese🎌
 
