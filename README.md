@@ -22,7 +22,7 @@ Currently studying at Higher School of Economics, "Faculcy of Computer Science",
 #### Additional education👨‍🔧:
 - [Yandex.Lyceum(2-year program of python learning)](https://yandexlyceum.ru)
 - [HSE Summer School of Computer Science: olimpiad programming camp](https://cs.hse.ru/csss)
-- A couple of courses from [Coursera](https://www.coursera.org) and [Stepik](https://stepik.org/users/153748980/certificates)
+- Courses from [Coursera](https://www.coursera.org) and [Stepik](https://stepik.org/users/153748980/certificates)
 
 #### Languages👅:
 - 🇷🇺(Native)
