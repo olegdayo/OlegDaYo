@@ -52,7 +52,7 @@ Currently studying at Higher School of Economics, "Faculcy of Computer Science",
 [![GitHub](https://img.shields.io/badge/-GitHub-25292e?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/OFFLUCK)
 [![GitLab](https://img.shields.io/badge/-GitLab-4a4e9e?style=for-the-badge&logo=gitlab&logoColor=fff)](https://gitlab.com/OFFLUCK)
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="OFFLUCK's activity" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=OFFLUCK&theme=github-light&custom_title=OFFLUCK%27s%20activity" /></a>
+<img alt="OFFLUCK's activity" src="https://github-readme-activity-graph.cyclic.app/graph/?username=OFFLUCK&theme=github-light&custom_title=OFFLUCK%27s%20activity"/>
 
 #### Olympiads and conferences👨‍🏫:
 - Awardee of the 2nd degree HSE team programming olympiad "The highest test"
