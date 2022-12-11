@@ -12,7 +12,7 @@ Currently studying at Higher School of Economics, "Faculcy of Computer Science",
 #### Carier📈:
 - 2021.09-2022.03: [HSE teaching assistant for algebra and calculus mathematical practice in Matlab](https://cs.hse.ru/initiative/2021/2022-2)
 - 2021.09-2022.05: School №444 Algorithms and Data Structures in Python teacher
-- 2022.07-2022.10: Yandex intern Go-developer. NOCDEV. Puncher team
+- 2022.07-2022.10: Yandex Infrastructure intern Go-developer
 - 2022.11-now: Yandex Market SRE (Go-developer)
 
 #### Education👨‍🎓:
