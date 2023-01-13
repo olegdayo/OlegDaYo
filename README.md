@@ -31,8 +31,8 @@ Currently studying at Higher School of Economics, Faculcy of Computer Science, B
 
 #### Programming languages👨‍💻:
 ![Go](https://img.shields.io/badge/-Go-f7d3a4?style=for-the-badge&logo=go&logoColor=6cc)
-![Python](https://img.shields.io/badge/-Python-ffd541?style=for-the-badge&logo=Python)
 ![Rust](https://img.shields.io/badge/-Rust-868782?style=for-the-badge&logo=rust&logoColor=633)
+![Python](https://img.shields.io/badge/-Python-ffd541?style=for-the-badge&logo=Python)
 ![C/C++](https://img.shields.io/badge/C/C++-1c598f?style=for-the-badge&logo=cplusplus&logoColor=fff)
 ![Matlab](https://img.shields.io/badge/Matlab-d4291c?style=for-the-badge)
 
