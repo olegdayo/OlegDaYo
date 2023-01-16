@@ -36,13 +36,11 @@ Currently I am studying at Higher School of Economics, Faculcy of Computer Scien
 ![C/C++](https://img.shields.io/badge/C/C++-1c598f?style=for-the-badge&logo=cplusplus&logoColor=fff)
 ![Matlab](https://img.shields.io/badge/Matlab-d4291c?style=for-the-badge)
 
-<!--
-  <p align="center">
-    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OFFLUCK&langs_count=10&layout=compact"/>\
-    <img height="200" src="https://github-readme-stats.vercel.app/api?username=OFFLUCK"/>
-    <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=OFFLUCK"/>
-  </p>
--->
+<p align="center">
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OFFLUCK&langs_count=10&layout=compact"/>\
+  <img height="200" src="https://github-readme-stats.vercel.app/api?username=OFFLUCK"/>
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=OFFLUCK"/>
+</p>
 
 #### Additional knowledges👨‍🏭:
 ![CI/CD](https://img.shields.io/badge/-CI/CD-b2ff44?style=for-the-badge)
