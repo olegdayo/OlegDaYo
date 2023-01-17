@@ -71,6 +71,9 @@ Currently I am studying at Higher School of Economics, Faculcy of Computer Scien
 - Playing bass🎸
 - Learning Japanese🎌
 
+#### Visitors' count
+<img alt="Visitors' count" src="https://count.getloli.com/get/@offluck?theme=gelbooru"/>
+
 Yeah, I am a weeboo🎎
 
 ⠄⣾⣿⠿⠿⠶⠿⢿⣿⣿⣿⣿⣦⣤⣄⢀⡅⢠⣾⣛⡉⠄⠄⠄⠸⢀⣿⠄<br/>
