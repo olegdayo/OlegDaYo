@@ -43,14 +43,13 @@ Currently I am studying at Higher School of Economics, Faculcy of Computer Scien
 </p>
 
 #### Additional knowledges👨‍🏭:
-![CI/CD](https://img.shields.io/badge/-CI/CD-b2ff44?style=for-the-badge)
+![DevOps](https://img.shields.io/badge/-DevOps-b2ff44?style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-616362?style=for-the-badge&logo=jupyter&logoColor=f63)
 ![RenPy](https://img.shields.io/badge/-RenPy-ffad55?style=for-the-badge)
 ![Latex](https://img.shields.io/badge/-Latex-4dffff?style=for-the-badge&logo=latex&logoColor=044)
-![Unity](https://img.shields.io/badge/-Unity-eeeeee?style=for-the-badge&logo=unity&logoColor=000)
 ![Git](https://img.shields.io/badge/-Git-e25a39?style=for-the-badge&logo=git&logoColor=fff)
-[![GitHub](https://img.shields.io/badge/-GitHub-25292e?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/OFFLUCK)
-[![GitLab](https://img.shields.io/badge/-GitLab-4a4e9e?style=for-the-badge&logo=gitlab&logoColor=fff)](https://gitlab.com/OFFLUCK)
+[![Actions](https://img.shields.io/badge/-Actions-25292e?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/OFFLUCK)
+[![CI/CD](https://img.shields.io/badge/-CI/CD-4a4e9e?style=for-the-badge&logo=gitlab&logoColor=#FC6D26)](https://gitlab.com/OFFLUCK)
 
 <img alt="OFFLUCK's activity" src="https://github-readme-activity-graph.cyclic.app/graph/?username=OFFLUCK&theme=github-light&custom_title=OFFLUCK%27s%20activity"/>
 
