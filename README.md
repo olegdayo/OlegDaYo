@@ -7,7 +7,7 @@ Currently I am studying at Higher School of Economics, Faculcy of Computer Scien
 #### Other contacts📞:
 [![Telegram](https://img.shields.io/badge/telegram-1DA1F2?logo=telegram&style=for-the-badge&logoColor=fff)](https://t.me/olegsama)
 [![VK](https://img.shields.io/badge/VK-4b74a2?logo=vk&style=for-the-badge&logoColor=fff)](https://vk.com/olegsama)
-[![Instagram](https://img.shields.io/badge/Instagram-fd5342?logo=instagram&style=for-the-badge&logoColor=fff)](https://www.instagram.com/off____luck)
+[![Instagram](https://img.shields.io/badge/Instagram-fd5342?logo=instagram&style=for-the-badge&logoColor=fff)](https://www.instagram.com/olegsama)
 
 #### Carier📈:
 - 2021.09-2022.03: [HSE teaching assistant for algebra and calculus mathematical practice in Matlab](https://cs.hse.ru/initiative/2021/2022-2)
