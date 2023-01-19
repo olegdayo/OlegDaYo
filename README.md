@@ -1,6 +1,6 @@
 ### Hey there!👋
 My name is Oleg, I'm a 20 y.o. software engineer from Moscow.
-Currently I am studying at Higher School of Economics, Faculcy of Computer Science, Bachelor’s Programme "Software Engineering".
+I am currently studying at Higher School of Economics University, Faculcy of Computer Science, Bachelor’s Programme "Software Engineering".
 
 #### Email💌: ol-sidorenkov@mail.ru
 
