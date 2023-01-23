@@ -67,6 +67,7 @@ Currently studying at Higher School of Economics University, Faculcy of Computer
 - Literature📚
   - Horror👻
   - Manga㊙️
+  - Visual Novels💴
   - Classic🏛
 - Playing bass🎸
 - Learning Japanese🎌
