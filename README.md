@@ -43,13 +43,13 @@ Currently studying at Higher School of Economics University, Faculcy of Computer
 </p>
 
 #### Additional knowledges👨‍🏭:
-![DevOps](https://img.shields.io/badge/-DevOps-b2ff44?style=for-the-badge)
-![Jupyter](https://img.shields.io/badge/-Jupyter-616362?style=for-the-badge&logo=jupyter&logoColor=f63)
-![RenPy](https://img.shields.io/badge/-RenPy-ffad55?style=for-the-badge)
-![Latex](https://img.shields.io/badge/-Latex-4dffff?style=for-the-badge&logo=latex&logoColor=044)
+![Docker](https://img.shields.io/badge/-Docker-ebf8ff?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-e25a39?style=for-the-badge&logo=git&logoColor=fff)
 [![Actions](https://img.shields.io/badge/-Actions-25292e?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/OFFLUCK)
 [![CI/CD](https://img.shields.io/badge/-CI/CD-4a4e9e?style=for-the-badge&logo=gitlab&logoColor=#FC6D26)](https://gitlab.com/OFFLUCK)
+![Jupyter](https://img.shields.io/badge/-Jupyter-616362?style=for-the-badge&logo=jupyter&logoColor=f63)
+![RenPy](https://img.shields.io/badge/-RenPy-ffad55?style=for-the-badge)
+![Latex](https://img.shields.io/badge/-Latex-4dffff?style=for-the-badge&logo=latex&logoColor=044)
 
 <img alt="OFFLUCK's activity" src="https://github-readme-activity-graph.cyclic.app/graph/?username=OFFLUCK&theme=github-light&custom_title=OFFLUCK%27s%20activity"/>
 
