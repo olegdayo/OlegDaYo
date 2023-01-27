@@ -4,7 +4,7 @@ Currently studying at Higher School of Economics University, Faculcy of Computer
 
 #### Email💌: ol-sidorenkov@mail.ru
 
-#### Other contacts📞:
+#### Social networks📞:
 [![Telegram](https://img.shields.io/badge/telegram-1DA1F2?logo=telegram&style=for-the-badge&logoColor=fff)](https://t.me/olegsama)
 [![VK](https://img.shields.io/badge/VK-4b74a2?logo=vk&style=for-the-badge&logoColor=fff)](https://vk.com/olegsama)
 [![Instagram](https://img.shields.io/badge/Instagram-fd5342?logo=instagram&style=for-the-badge&logoColor=fff)](https://www.instagram.com/olegsama)
