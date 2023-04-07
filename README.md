@@ -16,8 +16,9 @@ Currently studying at Higher School of Economics University, Faculcy of Computer
 - 2022.11-2022.04: Yandex Market Site Reliability Engineer
 
 #### Education👨‍🎓:
-- [State Budgetary Educational Institution of Moscow "School №444"](https://schv444.mskobr.ru)
-- [National Research University "Higher School of Economics", Faculcy of Computer Science, Bachelor’s Programme "Software Engineering"](https://www.hse.ru/en/ba/se)
+- [State Budgetary Educational Institution of Moscow School №444](https://schv444.mskobr.ru)
+- [National Research University Higher School of Economics, Faculcy of Computer Science, Bachelor’s Programme Software Engineering](https://www.hse.ru/en/ba/se)
+- [Technical University of Applied Sciences Würzburg-Schweinfurt, Faculty of Computer Science and Business Information Systems, Bachelor's programme Computer Science](https://fiw.thws.de/en/)
 
 #### Additional education👨‍🔧:
 - [Yandex.Lyceum(2-year program of python learning)](https://yandexlyceum.ru)
