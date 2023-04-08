@@ -29,6 +29,7 @@ Currently studying at Higher School of Economics University, Faculcy of Computer
 - 🇷🇺(Native)
 - 🇬🇧(C1)
 - 🇯🇵(Beginner)
+- 🇩🇪(Beginner)
 
 #### Programming languages👨‍💻:
 ![Go](https://img.shields.io/badge/-Go-f7d3a4?style=for-the-badge&logo=go&logoColor=6cc)
@@ -66,6 +67,7 @@ Currently studying at Higher School of Economics University, Faculcy of Computer
   - Rust🦀
   - Python🐍
 - Literature📚
+  - Tech🖥️
   - Horror👻
   - Manga㊙️
   - Visual Novels💴
