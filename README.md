@@ -36,7 +36,7 @@ Currently studying at Higher School of Economics University, Faculcy of Computer
 ![Rust](https://img.shields.io/badge/-Rust-868782?style=for-the-badge&logo=rust&logoColor=633)
 ![Python](https://img.shields.io/badge/-Python-ffd541?style=for-the-badge&logo=Python)
 ![C/C++](https://img.shields.io/badge/C/C++-1c598f?style=for-the-badge&logo=cplusplus&logoColor=fff)
-![Matlab](https://img.shields.io/badge/Matlab-d4291c?style=for-the-badge)
+![Matlab](https://img.shields.io/badge/Matlab-d4291c?style=for-the-badge&logo=matlab)
 
 <p align="center">
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OFFLUCK&langs_count=10&layout=compact"/>
@@ -51,7 +51,7 @@ Currently studying at Higher School of Economics University, Faculcy of Computer
 ![Docker](https://img.shields.io/badge/-Docker-ebf8ff?style=for-the-badge&logo=docker)
 ![WASM](https://img.shields.io/badge/-WASM-80e3ff?style=for-the-badge&logo=webassembly)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-616362?style=for-the-badge&logo=jupyter&logoColor=f63)
-![RenPy](https://img.shields.io/badge/-RenPy-ffad55?style=for-the-badge)
+![RenPy](https://img.shields.io/badge/-RenPy-e7d3bf?style=for-the-badge&logo=renpy&logoColor=f66)
 ![Latex](https://img.shields.io/badge/-Latex-4dffff?style=for-the-badge&logo=latex&logoColor=044)
 
 <img alt="OFFLUCK's activity" src="https://github-readme-activity-graph.cyclic.app/graph/?username=OFFLUCK&theme=github-light&custom_title=OFFLUCK%27s%20activity"/>
