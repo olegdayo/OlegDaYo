@@ -61,6 +61,7 @@ Currently studying at Higher School of Economics University, Faculcy of Computer
 - Awardee of the Moscow Conference "Science for life”
 - Winner of the All-Russian competition of design research works "Transport of the future" in the section "New vehicles"
 - Awardee of the 3rd degree of HSE Olympiad "The highest test. Electronics and computer engineering”
+- Best course project of HSE SE 2022-2023
 
 #### Hobbies👾:
 - Tech💻
