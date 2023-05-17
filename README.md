@@ -21,8 +21,9 @@ Currently studying at Higher School of Economics University, Faculcy of Computer
 - [Technical University of Applied Sciences Würzburg-Schweinfurt, Faculty of Computer Science and Business Information Systems, Bachelor's programme Computer Science](https://fiw.thws.de/en/)
 
 #### Additional education👨‍🔧:
-- [Yandex.Lyceum(2-year program of python learning)](https://yandexlyceum.ru)
-- [HSE Summer School of Computer Science: olimpiad programming camp](https://cs.hse.ru/csss)
+- [Yandex.Lyceum(2-year program of Python learning)](https://yandexlyceum.ru)
+- [HSE Summer School of Computer Science (olympiad programming camp)](https://cs.hse.ru/csss)
+- [Route256 Middle Go](https://route256.ozon.ru/go-developer)
 - Courses from [Coursera](https://www.coursera.org) and [Stepik](https://stepik.org/users/153748980/certificates)
 
 #### Languages👅:
