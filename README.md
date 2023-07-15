@@ -35,9 +35,11 @@ Currently studying at Higher School of Economics University, Faculcy of Computer
 #### Programming languages👨‍💻:
 ![Go](https://img.shields.io/badge/-Go-f7d3a4?style=for-the-badge&logo=go&logoColor=6cc)
 ![Rust](https://img.shields.io/badge/-Rust-868782?style=for-the-badge&logo=rust&logoColor=633)
+![Perl](https://img.shields.io/badge/-Perl-4b5c87?style=for-the-badge&logo=Perl)
 ![Python](https://img.shields.io/badge/-Python-ffd541?style=for-the-badge&logo=Python)
+![Shell](https://img.shields.io/badge/-Shell-273139?style=for-the-badge&logo=Bash)
 ![C/C++](https://img.shields.io/badge/C/C++-1c598f?style=for-the-badge&logo=cplusplus&logoColor=fff)
-![Matlab](https://img.shields.io/badge/Matlab-d4291c?style=for-the-badge&logo=matlab)
+![Matlab](https://img.shields.io/badge/Matlab-d4291c?style=for-the-badge&logo=MatLab)
 
 <p align="center">
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OFFLUCK&langs_count=10&layout=compact"/>
