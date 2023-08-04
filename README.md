@@ -14,6 +14,7 @@ Currently studying at Higher School of Economics University, Faculcy of Computer
 - 2021.09-2022.05: School №444 Algorithms and data structures in Python teacher
 - 2022.07-2022.10: Yandex Cloud Infrastructure Intern Go-Developer
 - 2022.11-2023.04: Yandex Market Junior Site Reliability Engineer
+- 2023.08-present time: Yandex Market Junior+ SRE
 
 #### Education👨‍🎓:
 - [State Budgetary Educational Institution of Moscow School №444](https://schv444.mskobr.ru)
