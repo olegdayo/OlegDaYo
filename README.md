@@ -29,7 +29,7 @@ Currently studying at Higher School of Economics University, Faculcy of Computer
 
 #### Languages👅:
 - 🇷🇺(Native)
-- 🇬🇧(C1)
+- 🇬🇧(C1, 7.5/9 IELTS)
 - 🇯🇵(Beginner)
 - 🇩🇪(Beginner)
 
