@@ -12,9 +12,9 @@ Currently studying at Higher School of Economics University, Faculcy of Computer
 #### Carier📈:
 - 2021.09-2022.03: [HSE teaching assistant for algebra and calculus mathematical practice in Matlab](https://cs.hse.ru/initiative/2021/2022-2)
 - 2021.09-2022.05: School №444 Algorithms and data structures in Python teacher
-- 2022.07-2022.10: Yandex Cloud Infrastructure Intern Developer
+- 2022.07-2022.10: Yandex.Cloud Infrastructure Intern Developer
 - 2022.11-2023.04: Yandex.Market Junior Site Reliability Engineer
-- 2023.08-present time: Yandex.Market Site Reliability Engineer
+- 2023.08-present time: Yandex.Market Logistics Site Reliability Engineer (+techleading a couple of infrastructure projects)
 
 #### Education👨‍🎓:
 - [State Budgetary Educational Institution of Moscow School №444](https://schv444.mskobr.ru)
