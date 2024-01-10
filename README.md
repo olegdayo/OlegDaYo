@@ -10,6 +10,7 @@ Currently studying at Higher School of Economics University, Faculcy of Computer
 [![Instagram](https://img.shields.io/badge/Instagram-fd5342?logo=instagram&style=for-the-badge&logoColor=fff)](https://www.instagram.com/olegsama)
 
 #### Carier📈:
+- 2020-2021: Python and MatLab tutor
 - 2021.09-2022.03: [HSE teaching assistant for algebra and calculus mathematical practice in Matlab](https://cs.hse.ru/initiative/2021/2022-2)
 - 2021.09-2022.05: School №444 Algorithms and data structures in Python teacher
 - 2022.07-2022.10: Yandex.Cloud Infrastructure Intern Developer
