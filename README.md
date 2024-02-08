@@ -61,7 +61,7 @@ Currently studying at Higher School of Economics University, Faculcy of Computer
 ![RenPy](https://img.shields.io/badge/-RenPy-e7d3bf?style=for-the-badge&logo=renpy&logoColor=f66)
 ![Latex](https://img.shields.io/badge/-Latex-4dffff?style=for-the-badge&logo=latex&logoColor=044)
 
-<img alt="My Activity" src="https://github-readme-activity-graph.cyclic.app/graph/?username=olegsama&theme=github-light&custom_title=olegsama%27s%20activity"/>
+<img alt="Activity" src="https://github-readme-activity-graph.cyclic.app/graph/?username=olegsama&theme=github-light&custom_title=Activity"/>
 
 #### Olympiads and conferences👨‍🏫:
 - Awardee of the 2nd degree HSE team programming olympiad "The highest test"
