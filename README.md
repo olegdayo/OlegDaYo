@@ -71,18 +71,54 @@ Currently studying at Higher School of Economics University, Faculty of Computer
 - Best course project of HSE SE 2022-2023
 
 #### Hobbies👾:
-- Tech💻
-  - Go🦫
-  - Rust🦀
-  - Python🐍
-- Literature📚
-  - Tech🖥️
-  - Horror👻
-  - Manga㊙️
-  - Visual Novels💴
-  - Classic🏛
-- Playing bass🎸
-- Learning Japanese🎌
+```yaml
+  Tech👩‍💻:
+    Fields🌾:
+      - Backend☁️
+      - Systems Programming💾
+    Languages👅:
+      - Go🦫
+      - Rust🦀
+      - Perl🐪/Python🐍/Shell🐚
+    SRE/DevOps/OS👩‍🔧:
+      - Linux🐧/UNIX😈
+      - Automation tools🛠️
+      - Containerization📦 and Orchestration🎼
+      - Everything as Code📝
+
+  Literature📚:
+    - Horror👻
+    - Classic🏛
+    - Manga㊙️
+    - Tech👩‍🏫
+
+  Music🎵:
+    Playing bass🎸
+    Collecting vinyl💽 and tapes📼
+    Genres🎧:
+      - Metal🤘:
+        - Vocaloid🤖
+        - Black💀/DSBM☠️/RBM🥩
+        - Death🧟‍♀️/MD🩸/TechDeath💻
+        - Dark Ambient❄️/Dungeon Synth🧌/Keller Synth🏰
+      - Electronic⚡️:
+        - EDM🪩:
+          - Nightcore🌚
+          - Daycore🌞
+        - Bizzare🌊:
+          - Weirdcore🍄/Dreamcore🌁/Witch house🎃
+          - Speedcore🏃‍♀️/Extratone💨/Hypertone⏩
+
+  Games👾:
+    - Visual Novels📜
+    - jRPGs🧙‍♀️
+    - Fightings🤺
+    - BulletHells🔫
+
+  Languages📣:
+    - English🇬🇧 (С1, 7.5/9 IELTS)
+    - Japanese🎌 (beginner)
+```
 
 #### Visitors' count
 <img alt="Visitors' count" src="https://count.getloli.com/get/@olegdayo?theme=gelbooru"/>
