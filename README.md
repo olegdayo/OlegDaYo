@@ -14,7 +14,7 @@ Currently studying at Higher School of Economics University, Faculty of Computer
 - 2021.09-2022.05: School №444 Teacher in Data Structures and Algorithms in Python
 - 2022.07-2022.10: Yandex.Infrastructure (former part of Yandex.Cloud) Intern Software Engineer
 - 2022.11-2023.04: Yandex.Market Junior Site Reliability Engineer
-- 2023.08-2023.11: Yandex.Market Logistics Site Reliability Engineer (techleading infrastructure Go-projects)
+- 2023.08-2023.11: Yandex.Market Site Reliability Engineer
 - 2023.11-present time: OzonTech Software Engineer
 
 #### Education👨‍🎓:
