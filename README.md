@@ -15,7 +15,8 @@ Currently studying at Higher School of Economics University, Faculty of Computer
 - 2022.07-2022.10: Yandex.Infrastructure (former part of Yandex.Cloud) Intern Software Engineer
 - 2022.11-2023.04: Yandex.Market Junior Site Reliability Engineer
 - 2023.08-2023.11: Yandex.Market Site Reliability Engineer
-- 2023.11-present time: OzonTech Software Engineer
+- 2023.11-2024.12: OzonTech Software Engineer
+- 2024.12-present time: AvitoTech Senior Software Engineer
 
 #### Education👨‍🎓:
 - [State Budgetary Educational Institution of Moscow School №444](https://schv444.mskobr.ru)
