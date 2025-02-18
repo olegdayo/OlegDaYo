@@ -19,7 +19,7 @@ Currently studying at Higher School of Economics University, Faculty of Computer
 #### Teaching Career👩‍🏫:
 - 2021.09-2022.03: [HSE Teaching Assistant in Algebra and Calculus Mathematical Practice in Matlab](https://cs.hse.ru/initiative/2021/2022-2)
 - 2021.09-2022.05: School №444 Teacher in Data Structures and Algorithms in Python
-- 2025.01-present time: HSE Operating Systems Teacher
+- 2025.01-present time: HSE Operating Systems Instructor
 
 #### Education👨‍🎓:
 - [State Budgetary Educational Institution of Moscow School №444](https://schv444.mskobr.ru)
