@@ -14,7 +14,7 @@ Currently studying at Higher School of Economics University, Faculty of Computer
 - 2022.11-2023.04: Yandex.Market Junior Site Reliability Engineer
 - 2023.08-2023.11: Yandex.Market Site Reliability Engineer
 - 2023.11-2024.12: OzonTech Software Engineer
-- 2024.12-present time: AvitoTech Senior Software Engineer
+- 2024.12-2025.02: AvitoTech Senior Software Engineer
 
 #### Teaching Career👩‍🏫:
 - 2021.09-2022.03: [HSE Teaching Assistant in Algebra and Calculus Mathematical Practice in Matlab](https://cs.hse.ru/initiative/2021/2022-2)
