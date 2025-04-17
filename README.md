@@ -1,6 +1,5 @@
 ### Hey there!👋
-My name is Oleg, I'm a 22 y.o. software engineer from Moscow.
-Currently studying at Higher School of Economics University, Faculty of Computer Science, Master’s Programme "Software Engineering".
+My name is Oleg, I'm a 22 y.o. SRE/SWE from Moscow.
 
 #### Email💌: ol-sidorenkov@mail.ru
 
@@ -26,6 +25,7 @@ Currently studying at Higher School of Economics University, Faculty of Computer
 - [State Budgetary Educational Institution of Moscow School №444](https://schv444.mskobr.ru)
 - [National Research University Higher School of Economics, Faculcy of Computer Science, Bachelor’s Programme Software Engineering](https://www.hse.ru/en/ba/se)
 - [Technical University of Applied Sciences Würzburg-Schweinfurt, Faculty of Computer Science and Business Information Systems, Bachelor's programme Computer Science](https://fiw.thws.de/en/)
+- [National Research University Higher School of Economics, Faculcy of Computer Science, Master’s Programme Software Engineering (currently)](https://www.hse.ru/en/ba/se)
 
 #### Additional education👨‍🔧:
 - [Yandex.Lyceum(2-year program of Python learning)](https://yandexlyceum.ru)
