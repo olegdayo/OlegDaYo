@@ -102,17 +102,17 @@ My name is Oleg, I'm a 22 y.o. SRE/SWE from Moscow.
       - DJ🎶 (former)
     Genres🎧:
       - Metal🤘:
-        - 🤖
+        - Vocaloid🤖
         - Black💀/DSBM☠️/RBM🥩
         - Death🧟‍♀️/MD🩸/TechDeath💻
         - Dark Ambient❄️/Dungeon Synth🧌/Keller Synth🏰
       - Electronic⚡️:
         - EDM🪩:
-          - Nightcore🌚/Daycore🌞
+          - Daycore🌞/Nightcore🌚
           - EuroDance🕺
         - Bizzare🌊:
-          - Weirdcore🍄/Dreamcore🌁/Witch house🎃
-          - Speedcore🏃‍♀️/Extratone💨/Hypertone⏩
+          - Dreamcore🌁/Weirdcore🍄/Witch house🎃
+          - Extratone💨/Hypertone⏩/Speedcore🏃‍♀️
 
   Games👾:
     - Visual Novels📜
