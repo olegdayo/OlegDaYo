@@ -96,18 +96,20 @@ My name is Oleg, I'm a 22 y.o. SRE/SWE from Moscow.
     - Tech👩‍🏫
 
   Music🎵:
-    Playing bass🎸
-    Collecting vinyl💽 and tapes📼
+    Activities🎼:
+      - Playing bass🎸
+      - Collecting vinyl💽 and tapes📼
+      - DJ🎶 (former)
     Genres🎧:
       - Metal🤘:
-        - Vocaloid🤖
+        - 🤖
         - Black💀/DSBM☠️/RBM🥩
         - Death🧟‍♀️/MD🩸/TechDeath💻
         - Dark Ambient❄️/Dungeon Synth🧌/Keller Synth🏰
       - Electronic⚡️:
         - EDM🪩:
-          - Nightcore🌚
-          - Daycore🌞
+          - Nightcore🌚/Daycore🌞
+          - EuroDance🕺
         - Bizzare🌊:
           - Weirdcore🍄/Dreamcore🌁/Witch house🎃
           - Speedcore🏃‍♀️/Extratone💨/Hypertone⏩
