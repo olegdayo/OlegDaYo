@@ -28,7 +28,7 @@ My name is Oleg, I'm a 22 y.o. SRE/SWE from Moscow.
 - [National Research University Higher School of Economics, Faculcy of Computer Science, Master’s Programme Software Engineering (currently)](https://www.hse.ru/en/ba/se)
 
 #### Additional education👨‍🔧:
-- [Yandex.Lyceum(2-year program of Python learning)](https://yandexlyceum.ru)
+- [Yandex.Lyceum (2-year program of Python learning)](https://yandexlyceum.ru)
 - [HSE Summer School of Computer Science (olympiad programming camp)](https://cs.hse.ru/csss)
 - [Route256 Middle Go](https://route256.ozon.ru/go-developer)
 - Courses from [Coursera](https://www.coursera.org) and [Stepik](https://stepik.org/users/153748980/certificates)
