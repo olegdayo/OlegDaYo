@@ -1,5 +1,5 @@
 ### Hey there!👋
-My name is Oleg, I'm a 22 y.o. SRE/SWE from Moscow.
+My name is Oleg, I'm a 23 y. o. SRE/SWE from Moscow.
 
 #### Email💌: ol-sidorenkov@mail.ru
 
