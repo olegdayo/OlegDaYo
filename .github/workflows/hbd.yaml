@@ -4,7 +4,6 @@ on:
   schedule:
     # Runs every December 23rd.
     - cron: '0 0 23 12 *'
-  workflow_dispatch:
 
 jobs:
   operations:
