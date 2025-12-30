@@ -1,0 +1,26 @@
+name: HBD
+
+on:
+  schedule:
+    # Runs every December 23rd.
+    - cron: '0 0 23 12 *'
+  workflow_dispatch:
+
+jobs:
+  operations:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check Out
+        uses: actions/checkout@v4
+
+      - name: Setup Git Config
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+
+      - name: Update Staging Tag
+        run: |
+          ./scripts/hbd.sh
+          git add README.md
+          git commit -m "old boy"
+          git push
