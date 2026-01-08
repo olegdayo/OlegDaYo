@@ -17,7 +17,7 @@ jobs:
           git config user.name "GitHub Actions"
           git config user.email "actions@github.com"
 
-      - name: Update Staging Tag
+      - name: Update Age
         run: |
           ./scripts/hbd.sh
           git add README.md
