@@ -11,6 +11,6 @@ for word in $(echo $line | cut -d ' ' -f 1-); do
     fi
 done
 
-echo "$age"
+echo "Previous age: ${age}"
 
 sed -i "s/I'm a .* y. o./I'm a $((age+1)) y. o./g" ./README.md
