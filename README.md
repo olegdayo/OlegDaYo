@@ -19,7 +19,7 @@ My name is Oleg, I'm a 23 y. o. SRE/SWE from Moscow.
 #### Teaching Career👩‍🏫:
 - 2021.09-2022.03: [HSE Teaching Assistant in Algebra and Calculus Mathematical Practice in Matlab](https://cs.hse.ru/initiative/2021/2022-2)
 - 2021.09-2022.05: School №444 Teacher in Data Structures and Algorithms in Python
-- 2025.01-present time: HSE Operating Systems Instructor
+- 2025.01-2025.06: HSE Operating Systems Instructor
 
 #### Education👨‍🎓:
 - [State Budgetary Educational Institution of Moscow School №444](https://schv444.mskobr.ru)
