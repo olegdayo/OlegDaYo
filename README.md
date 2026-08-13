@@ -12,7 +12,6 @@ My name is Oleg, I'm a 23 y. o. SRE/SWE from Moscow.
 - 2022.07-2022.10: Yandex.Infrastructure (former part of Yandex.Cloud) Intern Software Engineer
 - 2022.11-2023.11: Yandex.Market Site Reliability Engineer
 - 2023.11-2024.12: OzonTech Software Engineer
-- 2024.12-2025.02: AvitoTech Senior Software Engineer
 - 2025.04-present time: VK Cloud Senior Software Engineer
 
 #### Teaching Career👩‍🏫:
