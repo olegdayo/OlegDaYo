@@ -9,8 +9,7 @@ My name is Oleg, I'm a 23 y. o. SRE/SWE from Moscow.
 [![Instagram](https://img.shields.io/badge/Instagram-fd5342?logo=instagram&style=for-the-badge&logoColor=fff)](https://www.instagram.com/olegdayo)
 
 #### Work Career📈:
-- 2022.07-2022.10: Yandex.Infrastructure (former part of Yandex.Cloud) Intern Software Engineer
-- 2022.11-2023.11: Yandex.Market Site Reliability Engineer
+- 2022.07-2023.11: Yandex Site Reliability Engineer
 - 2023.11-2024.12: OzonTech Software Engineer
 - 2025.04-present time: VK Cloud Senior Software Engineer
 
