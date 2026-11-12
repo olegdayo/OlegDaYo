@@ -4,25 +4,25 @@ My name is Oleg, I'm a 23 y. o. SWE from Moscow. I enjoy platform/infrastructure
 #### Personal website🕸️
 https://olegdayo.github.io/me
 
-#### Contact me📞:
+#### Contact me📞
 - ol-sidorenkov@mail.ru
 - https://t.me/olegdayo
 
-#### Work Career📈:
+#### Work Career📈
 - 2025.04-present time: VK Cloud Senior Software Engineer
 - 2023.11-2024.12: OzonTech Software Engineer
 - 2022.07-2023.11: Yandex Site Reliability Engineer
 
-#### Teaching Career👩‍🏫:
+#### Teaching Career👩‍🏫
 - 2025.01-present time: HSE Operating Systems Instructor
 - 2021.09-2022.05: HSE & School №444 Teaching Assistant
 
-#### Education👨‍🎓:
+#### Education👨‍🎓
 - National Research University Higher School of Economics, Faculcy of Computer Science, Master’s Programme Software Engineering
 - National Research University Higher School of Economics, Faculcy of Computer Science, Bachelor’s Programme Software Engineering
 - Technical University of Applied Sciences Würzburg-Schweinfurt, Faculty of Computer Science and Business Information Systems, Bachelor's programme Computer Science
 
-#### Languages👅:
+#### Languages👅
 - 🇷🇺(Native)
 - 🇬🇧(C1, 7.5/9 IELTS)
 
