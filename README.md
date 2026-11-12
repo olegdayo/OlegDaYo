@@ -3,10 +3,9 @@ My name is Oleg, I'm a 23 y. o. SWE from Moscow. I enjoy platform/infrastructure
 
 #### [Personal website](https://olegdayo.github.io/me)
 
-#### Email💌: ol-sidorenkov@mail.ru
-
-#### Social networks📞:
-[![Telegram](https://img.shields.io/badge/telegram-1DA1F2?logo=telegram&style=for-the-badge&logoColor=fff)](https://t.me/olegdayo)
+#### Contact me📞:
+- ol-sidorenkov@mail.ru
+- https://t.me/olegdayo
 
 #### Work Career📈:
 - 2025.04-present time: VK Cloud Senior Software Engineer
