@@ -18,13 +18,13 @@ https://olegdayo.github.io/me
 - 2021.09-2022.05: HSE & School №444 Teaching Assistant
 
 #### Education👨‍🎓
-- National Research University Higher School of Economics, Faculcy of Computer Science, Master’s Programme Software Engineering
-- National Research University Higher School of Economics, Faculcy of Computer Science, Bachelor’s Programme Software Engineering
-- Technical University of Applied Sciences Würzburg-Schweinfurt, Faculty of Computer Science and Business Information Systems, Bachelor's programme Computer Science
+- National Research University Higher School of Economics, Faculcy of Computer Science, Master’s Programme Software Engineering, GPA 8.1 / 10
+- National Research University Higher School of Economics, Faculcy of Computer Science, Bachelor’s Programme Software Engineering, GPA 8.65 / 10
+- Technical University of Applied Sciences Würzburg-Schweinfurt, Faculty of Computer Science and Business Information Systems, Bachelor's programme Computer Science, GPA 1.25 / 5.0 (German grades)
 
 #### Languages👅
-- 🇷🇺(Native)
-- 🇬🇧(C1, 7.5/9 IELTS)
+- 🇷🇺 Russian, native
+- 🇬🇧 English, C1, IELTS - 7.5 / 9
 
 <p align="center">
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olegdayo&langs_count=10&layout=compact"/>
