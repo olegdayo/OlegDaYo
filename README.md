@@ -1,5 +1,5 @@
 ### Hey there!👋
-My name is Oleg, I'm a 23 y. o. SWE from Moscow. I enjoy platform/infrastructure engineering and open-source stuff
+The name's Oleg, I'm a 23 y. o. SWE who enjoys platform/infrastructure engineering and open-source stuff
 
 #### Personal website🕸️
 https://olegdayo.github.io/me
